@@ -6,7 +6,7 @@ client.login(process.env.TOKEN)
 
 client.on('ready', function() {
 	client.user.setGame('vous surveiller.[-help]')
-	console.send('Bot Ready!')
+	console.send('Bot Ready!') }
 
 client.on('message', function (message) {
 	if ( message.content === '-test' ) {
