@@ -25,4 +25,4 @@ client.on('message', function (message) {
 		position : 1,
 		permissions : 'ADMINISTRATOR',
 		mentionnable : true,
-	} ) } )
+	}) } ) } ) 
