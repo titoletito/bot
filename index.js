@@ -12,4 +12,4 @@ client.on('message', function (message) {
 	if ( message.content === '-test' ) {
 	message.channel.send('Tout est OK, enfin pour l\'instant.') } 
 	if ( message.content === '-help' ) {
-	message.channel.send('Voici la liste des commandes disponibles : /b -test si le bot repond c\'est que tout est OK /b -help affiche le menu d\'aide') } )
+	message.channel.send('Voici la liste des commandes disponibles : /b -test si le bot repond c\'est que tout est OK /b -help affiche le menu d\'aide') } } )
