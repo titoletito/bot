@@ -2,7 +2,7 @@ const Discord = require('discord.js')
 const client = new Discord.Client
 
 
-client.login('')
+client.login(process.env.TOKEN)
 
 client.on('message', function (message) {
 	if ( message.content === '-message' ) {
