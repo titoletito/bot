@@ -5,7 +5,7 @@ const client = new Discord.Client
 client.login(process.env.TOKEN)
 
 client.on('ready', function() {
-	client.user.setGame('vous surveiller.[-help]')
+	client.user.setGame('vous surveiller. [-help]')
 	console.log('Bot Ready!') } )
 
 client.on('message', function (message) {
