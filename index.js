@@ -13,5 +13,5 @@ client.on('message', function (message) {
 	message.channel.send('Tout est OK, enfin pour l\'instant.') } 
 	if ( message.content === '-help' ) {
 	message.channel.send('Voici la liste des commandes disponibles : \n -test : si le bot repond c\'est que tout est OK \n -help : affiche le menu d\'aide' \n -source-code : affiche le code source.' ) } 
-	if ( message.content === '-source-code' ) {
+	if ( message.content === '-source-code') {
 	message.channel.send('Le code source est disponible à l\'adresse suivante : https://github.com/anonymocraft/bot/')  } } )
