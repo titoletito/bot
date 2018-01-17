@@ -6,7 +6,7 @@ client.login(process.env.TOKEN)
 
 client.on('message', function (message) {
 	if ( message.content === '-test' ) { 
-	message.channel.sendMessage('Tout va bien ( Pour l'instant.... ) ') }
+	channel.sendMessage('Tout va bien ( Pour l'instant.... ) ') }
 	if ( message.content === '-message' ) {
 	message.reply('Dsl tu est maigre, trop maigre....') }
 	if ( message.content === '-invisible' && channel.user.id === '335118921088630796' ) {
