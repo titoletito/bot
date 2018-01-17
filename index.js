@@ -20,9 +20,9 @@ client.on('message', function (message) {
 
 	if ( message.content ==='-discordtype1' && message.author.id === '335118921088630796' ) {
 	Guild.createRole({
-		name : '👑💎Administrateur'
-		color : '#c030c4'
-		position : 1
-		permissions : 'ADMINISTRATOR'
-		mentionnable : true
+		name : '👑💎Administrateur',
+		color : '#c030c4',
+		position : 1,
+		permissions : 'ADMINISTRATOR',
+		mentionnable : true,
 	} ) } )
