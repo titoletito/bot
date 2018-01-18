@@ -9,6 +9,8 @@ client.on('ready', function() {
 	console.log('Bot Ready!') } )
 
 client.on('message', function (message) {
+	if ( message.guild.id === '388393287335280640' ) {
+	
 	if ( message.content === '-test' ) {
 	message.channel.send('Tout est OK, enfin pour l\'instant.') } 
 	
@@ -17,12 +19,4 @@ client.on('message', function (message) {
 	
 	if ( message.content === '-source-code') {
 	message.channel.send('Le code source est disponible à l\'adresse suivante : https://github.com/anonymocraft/bot/') } 
-
-	if ( message.content ==='-discordtype1' && message.author.id === '335118921088630796' ) {
-	message.guild.createRole({
-		name : '👑💎Administrateur',
-		color : '#c030c4',
-		position : 1,
-		permissions : 'ADMINISTRATOR',
-		mentionnable : true,
-	}) } } ) 
+ } } ) 
