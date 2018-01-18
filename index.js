@@ -19,4 +19,8 @@ client.on('message', function (message) {
 	
 	if ( message.content === '-source-code') {
 	message.channel.send('Le code source est disponible à l\'adresse suivante : https://github.com/anonymocraft/bot/') } 
- } } ) 
+ } 
+        if ( message.guild.id === '402563276606537738' ) {
+		
+	}
+	} ) 
