@@ -19,7 +19,7 @@ client.on('message', function (message) {
 	message.channel.send('Le code source est disponible à l\'adresse suivante : https://github.com/anonymocraft/bot/') } 
 
 	if ( message.content ==='-discordtype1' && message.author.id === '335118921088630796' ) {
-	Guild.createRole({
+	message.guild.createRole({
 		name : '👑💎Administrateur',
 		color : '#c030c4',
 		position : 1,
