@@ -1,0 +1,22 @@
+timestamp,side,score,setup_type,pnl,outcome,mode,ema_ok,squeeze_ok,breakout_ok,vwap_ok,volume_ok,supertrend_ok,adx_ok,pattern_ok
+2025-06-14 16:26:00,SELL,4.0,ema_adx_supertrend_pattern_breakout,-64.6959,SL,real,True,False,True,True,False,True,True,True
+2025-06-14 16:29:00,SELL,4.0,ema_adx_supertrend_pattern_breakout,-57.8999,SL,real,True,False,True,True,False,True,True,True
+2025-06-14 16:30:00,SELL,4.0,ema_adx_supertrend_pattern_breakout,-53.0039,SL,real,True,False,True,True,False,True,True,True
+2025-06-14 16:32:00,SELL,4.0,ema_adx_supertrend_pattern_breakout,-56.103,SL,real,True,False,True,True,False,True,True,True
+2025-06-14 16:34:00,SELL,3.0,ema_adx_supertrend_volume,-65.386,SL,real,True,False,False,True,True,True,True,False
+2025-06-14 16:38:00,SELL,4.0,ema_adx_supertrend_volume_pattern,-63.516,SL,real,True,False,False,True,True,True,True,True
+2025-06-14 16:39:00,SELL,5.0,ema_adx_supertrend_volume_pattern_breakout,-61.3224,SL,real,True,False,True,True,True,True,True,True
+2025-06-14 16:40:00,SELL,3.0,ema_adx_supertrend_volume,-56.1291,SL,real,True,False,False,True,True,True,True,False
+2025-06-14 16:41:00,SELL,3.0,ema_adx_supertrend_volume,-52.7677,SL,real,True,False,False,True,True,True,True,False
+2025-06-14 16:42:00,SELL,3.0,ema_adx_supertrend_volume,-51.2334,SL,real,True,False,False,True,True,True,True,False
+2025-06-14 16:43:00,SELL,4.0,ema_adx_supertrend_pattern_breakout,-53.776,SL,real,True,False,True,True,False,True,True,True
+2025-06-14 16:45:00,SELL,4.0,ema_adx_supertrend_pattern_breakout,-53.3651,SL,real,True,False,True,True,False,True,True,True
+2025-06-14 16:46:00,SELL,5.0,ema_adx_supertrend_volume_pattern_breakout,-67.4935,SL,real,True,False,True,True,True,True,True,True
+2025-06-14 16:48:00,SELL,4.0,ema_adx_supertrend_pattern_breakout,-73.9147,SL,real,True,False,True,True,False,True,True,True
+2025-06-14 16:49:00,SELL,4.0,ema_adx_supertrend_pattern_breakout,-74.0072,SL,real,True,False,True,True,False,True,True,True
+2025-06-14 16:50:00,SELL,3.0,ema_adx_supertrend_volume,-89.282,SL,real,True,False,False,True,True,True,True,False
+2025-06-14 16:51:00,SELL,3.0,ema_adx_supertrend_volume,-98.3538,SL,real,True,False,False,True,True,True,True,False
+2025-06-14 16:52:00,SELL,4.0,ema_adx_supertrend_volume_pattern,-109.1794,SL,real,True,False,False,True,True,True,True,True
+2025-06-14 17:00:00,SELL,3.0,ema_adx_supertrend_pattern,-83.6542,SL,real,True,False,False,True,False,True,True,True
+2025-06-14 17:01:00,SELL,4.0,ema_adx_supertrend_pattern_breakout,-77.7383,SL,real,True,False,True,True,False,True,True,True
+2025-06-14 17:02:00,SELL,4.0,ema_adx_supertrend_pattern_breakout,-73.2119,SL,real,True,False,True,True,False,True,True,True

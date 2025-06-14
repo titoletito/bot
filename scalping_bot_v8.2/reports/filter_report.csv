@@ -1,0 +1,7 @@
+filtre,trades,winrate_%,pnl_moyen,efficace
+ema_ok,32,34.38,-7.66,! Inefficace
+breakout_ok,32,34.38,-7.66,! Inefficace
+vwap_ok,24,25.0,-20.58,! Inefficace
+supertrend_ok,32,34.38,-7.66,! Inefficace
+adx_ok,32,34.38,-7.66,! Inefficace
+pattern_ok,32,34.38,-7.66,! Inefficace
